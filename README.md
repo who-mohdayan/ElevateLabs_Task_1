@@ -1,5 +1,4 @@
 # ElevateLabs_Task_1
-ElevateLabs_Task_1
 # Responsive Landing Page
 
 ## 📌 Task Objective
@@ -17,9 +16,3 @@ This project is part of a Web Development Internship. The goal is to create a **
 - Hero section with heading, paragraph, and call-to-action button
 - Footer with social media links
 - Mobile-friendly layout using media queries
-
-## 🔍 Preview
-![Preview Screenshot](screenshot.png)  
-> _Add your own screenshot named `screenshot.png` to show the output_
-
-## 📂 Folder Structure
